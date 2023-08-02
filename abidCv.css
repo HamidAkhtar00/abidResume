@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.main{
+    width: 990px;
+    height: 1100px;
+    background:white ;
+    position: relative;
+    border:1px solid #001;
+}
+
+.first{
+    width:340px ;
+    height: 1100px;
+    padding-left: 5px;
+    background-color:#927258;
+    position: absolute;
+    display: inline-block;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.pics{
+    width: 190px;
+    height: 190px;
+    margin-top: 2px;
+    margin-bottom: 5px;
+    margin-left: 80px;
+    border-radius:50%;
+    -webkit-border-radius:50%;
+    -moz-border-radius:50%;
+    -ms-border-radius:50%;
+    -o-border-radius:50%;
+}
+.mail{
+    width: 25px;
+    height: 25px;
+    margin: 5px 5px;
+}
+.first h1{
+    text-align: center;
+    color: #fff;
+}
+.maildetail{
+    color: #fff;
+    display: inline-block;
+    position: relative;
+}
+.phone{
+    width: 25px;
+    height: 25px;
+    margin: 5px 5px;
+}
+.phonedetail{
+    color: #fff;
+    display: inline-block;
+    position: relative;
+}
+.location{
+    width: 25px;
+    height: 25px;
+    margin: 5px 5px;
+    background: #fff;
+}
+.locationdetail{
+    color: #fff;
+    display: inline-block;
+    position: relative;
+}
+h2{
+    color: #fff;
+    margin:0 13px;
+    padding: 10px 15px;
+    background-color: #ff7200;
+    border: none;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+ul{
+    margin-left: 5px;
+}
+
+li{
+    color: #fff;
+    margin: 8px 12px;
+}
+.second{
+    width:638px ;
+    height: 1100px;
+    background-color: #fff;
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 345px;
+    border-right: 1px solid #001;
+    border-left:8px solid #ff7200 ; 
+}
+.par{
+    color: #ff7200;
+    margin-top:0;
+    margin-bottom:0;
+    margin-left:0;
+    margin-right:25px;
+    padding: 8px 20px;
+    background-color: #927258;
+    border: none;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    
+}
+p{
+    padding: 7px 15px;
+}
+h3{
+    padding: 9px 15px;
+}
+h4{
+    padding: 10px 15px;
+}
